@@ -1,44 +1,50 @@
 [
     {
+        "id": 1,
         "chef_name": "Maria Sanchez",
         "years_of_experience": 10,
         "num_recipes": 75,
         "likes": 1200,
-        "view_recipes_button": "https://i.ibb.co/QrxVVTS/chef1.png"
+        "view_image": "https://i.ibb.co/QrxVVTS/chef1.png"
     },
     {
+        "id": 2,
         "chef_name": "John Smith",
         "years_of_experience": 5,
         "num_recipes": 50,
         "likes": 800,
-        "view_recipes_button": "https://i.ibb.co/9txY5TH/chef2.png"
+        "view_image": "https://i.ibb.co/9txY5TH/chef2.png"
     },
     {
+        "id": 3,
         "chef_name": "Samantha Lee",
         "years_of_experience": 8,
         "num_recipes": 100,
         "likes": 2000,
-        "view_recipes_button": "https://i.ibb.co/7gRR71v/chef3.png"
+        "view_image": "https://i.ibb.co/7gRR71v/chef3.png"
     },
     {
+        "id": 4,
         "chef_name": "David Chang",
         "years_of_experience": 15,
         "num_recipes": 200,
         "likes": 5000,
-        "view_recipes_button": "https://i.ibb.co/9txY5TH/chef2.png"
+        "view_image": "https://i.ibb.co/9txY5TH/chef2.png"
     },
     {
+        "id": 5,
         "chef_name": "Anna Nguyen",
         "years_of_experience": 3,
         "num_recipes": 30,
         "likes": 500,
-        "view_recipes_button": "https://i.ibb.co/7gRR71v/chef3.png"
+        "view_image": "https://i.ibb.co/7gRR71v/chef3.png"
     },
     {
+        "id": 6,
         "chef_name": "Carlos Rodriguez",
         "years_of_experience": 12,
         "num_recipes": 150,
         "likes": 3500,
-        "view_recipes_button": "https://i.ibb.co/9txY5TH/chef2.png"
+        "view_image": "https://i.ibb.co/9txY5TH/chef2.png"
     }
 ]
