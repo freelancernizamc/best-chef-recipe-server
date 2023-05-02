@@ -1,0 +1,44 @@
+[
+    {
+        "chef_name": "Maria Sanchez",
+        "years_of_experience": 10,
+        "num_recipes": 75,
+        "likes": 1200,
+        "view_recipes_button": "https://example.com/maria-sanchez/recipes"
+    },
+    {
+        "chef_name": "John Smith",
+        "years_of_experience": 5,
+        "num_recipes": 50,
+        "likes": 800,
+        "view_recipes_button": "https://example.com/john-smith/recipes"
+    },
+    {
+        "chef_name": "Samantha Lee",
+        "years_of_experience": 8,
+        "num_recipes": 100,
+        "likes": 2000,
+        "view_recipes_button": "https://example.com/samantha-lee/recipes"
+    },
+    {
+        "chef_name": "David Chang",
+        "years_of_experience": 15,
+        "num_recipes": 200,
+        "likes": 5000,
+        "view_recipes_button": "https://example.com/david-chang/recipes"
+    },
+    {
+        "chef_name": "Anna Nguyen",
+        "years_of_experience": 3,
+        "num_recipes": 30,
+        "likes": 500,
+        "view_recipes_button": "https://example.com/anna-nguyen/recipes"
+    },
+    {
+        "chef_name": "Carlos Rodriguez",
+        "years_of_experience": 12,
+        "num_recipes": 150,
+        "likes": 3500,
+        "view_recipes_button": "https://example.com/carlos-rodriguez/recipes"
+    }
+]
