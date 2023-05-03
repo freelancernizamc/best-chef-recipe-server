@@ -5,7 +5,24 @@
         "years_of_experience": 10,
         "num_recipes": 75,
         "likes": 1200,
-        "view_image": "https://i.ibb.co/QrxVVTS/chef1.png"
+        "view_image": "https://i.ibb.co/QrxVVTS/chef1.png",
+        "recipes": [
+            {
+                "name": "Grilled Chicken with Lemon Butter Sauce",
+                "description": "A delicious and easy-to-make grilled chicken recipe with a flavorful lemon butter sauce.",
+                "image": "https://i.ibb.co/fdtcjr0/Chicken-in-Lemon-Butter-Sauce-Recipe.jpg"
+            },
+            {
+                "name": "Spicy Shrimp Pasta",
+                "description": "A spicy and creamy pasta dish with juicy shrimp and a homemade tomato sauce.",
+                "image": "https://i.ibb.co/Wy4YV4v/pasta.jpg"
+            },
+            {
+                "name": "Crispy Pork Belly with Apple Chutney",
+                "description": "A mouth-watering pork belly recipe with a sweet and tangy apple chutney.",
+                "image": "https://i.ibb.co/t8vdbLj/porkbelly.jpg"
+            }
+        ]
     },
     {
         "id": 2,
@@ -13,7 +30,24 @@
         "years_of_experience": 5,
         "num_recipes": 50,
         "likes": 800,
-        "view_image": "https://i.ibb.co/9txY5TH/chef2.png"
+        "view_image": "https://i.ibb.co/9txY5TH/chef2.png",
+        "recipes": [
+            {
+                "name": "Spicy Beef Tacos",
+                "description": "A quick and easy recipe for delicious and spicy beef tacos.",
+                "image": "https://i.ibb.co/BNLJhxD/tacos.jpg"
+            },
+            {
+                "name": "Mushroom Risotto",
+                "description": "A creamy and flavorful mushroom risotto recipe that's perfect for any occasion.",
+                "image": "https://i.ibb.co/xL07Z1j/Mushroom-Risotto-Recipe.jpg"
+            },
+            {
+                "name": "Roasted Salmon with Asparagus",
+                "description": "A healthy and delicious recipe for roasted salmon with fresh asparagus.",
+                "image": "https://i.ibb.co/RCHS4Q6/asparagus.jpg"
+            }
+        ]
     },
     {
         "id": 3,
@@ -21,7 +55,24 @@
         "years_of_experience": 8,
         "num_recipes": 100,
         "likes": 2000,
-        "view_image": "https://i.ibb.co/7gRR71v/chef3.png"
+        "view_image": "https://i.ibb.co/7gRR71v/chef3.png",
+        "recipes": [
+            {
+                "name": "Teriyaki Glazed Chicken Thighs",
+                "description": "A delicious and easy-to-make recipe for teriyaki glazed chicken thighs.",
+                "image": "https://i.ibb.co/RCHS4Q6/asparagus.jpg"
+            },
+            {
+                "name": "Spaghetti Carbonara",
+                "description": "A classic Italian recipe for spaghetti carbonara that's sure to impress.",
+                "image": "https://i.ibb.co/xL07Z1j/Mushroom-Risotto-Recipe.jpg"
+            },
+            {
+                "name": "Spaghetti Carbonara",
+                "description": "A classic Italian recipe for spaghetti carbonara that's sure to impress.",
+                "image": "https://i.ibb.co/t8vdbLj/porkbelly.jpg"
+            }
+        ]
     },
     {
         "id": 4,
@@ -29,7 +80,24 @@
         "years_of_experience": 15,
         "num_recipes": 200,
         "likes": 5000,
-        "view_image": "https://i.ibb.co/9txY5TH/chef2.png"
+        "view_image": "https://i.ibb.co/9txY5TH/chef2.png",
+        "recipes": [
+            {
+                "name": "Spicy Beef Tacos",
+                "description": "A quick and easy recipe for delicious and spicy beef tacos.",
+                "image": "https://i.ibb.co/BNLJhxD/tacos.jpg"
+            },
+            {
+                "name": "Mushroom Risotto",
+                "description": "A creamy and flavorful mushroom risotto recipe that's perfect for any occasion.",
+                "image": "https://i.ibb.co/xL07Z1j/Mushroom-Risotto-Recipe.jpg"
+            },
+            {
+                "name": "Roasted Salmon with Asparagus",
+                "description": "A healthy and delicious recipe for roasted salmon with fresh asparagus.",
+                "image": "https://i.ibb.co/RCHS4Q6/asparagus.jpg"
+            }
+        ]
     },
     {
         "id": 5,
@@ -37,7 +105,24 @@
         "years_of_experience": 3,
         "num_recipes": 30,
         "likes": 500,
-        "view_image": "https://i.ibb.co/7gRR71v/chef3.png"
+        "view_image": "https://i.ibb.co/7gRR71v/chef3.png",
+        "recipes": [
+            {
+                "name": "Spicy Beef Tacos",
+                "description": "A quick and easy recipe for delicious and spicy beef tacos.",
+                "image": "https://i.ibb.co/BNLJhxD/tacos.jpg"
+            },
+            {
+                "name": "Mushroom Risotto",
+                "description": "A creamy and flavorful mushroom risotto recipe that's perfect for any occasion.",
+                "image": "https://i.ibb.co/xL07Z1j/Mushroom-Risotto-Recipe.jpg"
+            },
+            {
+                "name": "Roasted Salmon with Asparagus",
+                "description": "A healthy and delicious recipe for roasted salmon with fresh asparagus.",
+                "image": "https://i.ibb.co/RCHS4Q6/asparagus.jpg"
+            }
+        ]
     },
     {
         "id": 6,
@@ -45,6 +130,23 @@
         "years_of_experience": 12,
         "num_recipes": 150,
         "likes": 3500,
-        "view_image": "https://i.ibb.co/9txY5TH/chef2.png"
+        "view_image": "https://i.ibb.co/9txY5TH/chef2.png",
+        "recipes": [
+            {
+                "name": "Grilled Chicken with Lemon Butter Sauce",
+                "description": "A delicious and easy-to-make grilled chicken recipe with a flavorful lemon butter sauce.",
+                "image": "https://i.ibb.co/fdtcjr0/Chicken-in-Lemon-Butter-Sauce-Recipe.jpg"
+            },
+            {
+                "name": "Spicy Shrimp Pasta",
+                "description": "A spicy and creamy pasta dish with juicy shrimp and a homemade tomato sauce.",
+                "image": "https://i.ibb.co/Wy4YV4v/pasta.jpg"
+            },
+            {
+                "name": "Crispy Pork Belly with Apple Chutney",
+                "description": "A mouth-watering pork belly recipe with a sweet and tangy apple chutney.",
+                "image": "https://i.ibb.co/t8vdbLj/porkbelly.jpg"
+            }
+        ]
     }
 ]
